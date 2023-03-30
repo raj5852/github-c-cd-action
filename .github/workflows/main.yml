@@ -18,4 +18,4 @@ jobs:
         server: ftp.bangabandhugirlshs.edu.bd
         username: github@github.rajwebdev.xyz
         password: GS1[us[pPFwx
-        server-dir: /public_html/rajwebdev.xyz/github
+        server-dir: /public_html/rajwebdev.xyz/github/
